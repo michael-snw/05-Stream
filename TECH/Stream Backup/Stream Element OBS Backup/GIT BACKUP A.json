@@ -1441,7 +1441,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "capture_mode": "window",
-                "window": "Louea - Twitch - Opera:Chrome_WidgetWin_1:opera.exe"
+                "window": "GIT BACKUP - Twitch - Opera:Chrome_WidgetWin_1:opera.exe"
             },
             "sync": 0,
             "versioned_id": "game_capture",
@@ -4977,7 +4977,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "local_file": "M:/STREAM/STREAM IMG/NEW STREAM/LOUEA - AVATAR OPENING.webm",
+                "local_file": "M:/STREAM/STREAM IMG/NEW STREAM/GIT BACKUP - AVATAR OPENING.webm",
                 "looping": true
             },
             "sync": 0,

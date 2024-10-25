@@ -606,7 +606,7 @@
         },
         "scripts-tool": []
     },
-    "name": "LOUEA 500F SE",
+    "name": "GIT BACKUP B",
     "preview_locked": false,
     "quick_transitions": [
         {
@@ -1788,7 +1788,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "close_when_inactive": true,
-                "local_file": "M:/STREAM/STREAM IMG/NEW STREAM/LOUEA - BG 1 GROTTE.mp4",
+                "local_file": "M:/STREAM/STREAM IMG/NEW STREAM/GIT BACKUP - BG 1 GROTTE.mp4",
                 "looping": true
             },
             "sync": 0,
@@ -3685,7 +3685,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Louea Love",
+            "name": "GIT BACKUP Love",
             "prev_ver": 436207616,
             "private_settings": {},
             "push-to-mute": false,
@@ -3693,7 +3693,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "M:/STREAM/STREAM IMG/NEW STREAM/LOVE LOUEA 2020.png"
+                "file": "M:/STREAM/STREAM IMG/NEW STREAM/LOVE GIT BACKUP 2020.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -3713,7 +3713,7 @@
                 "libobs.hide_scene_item.Capture de fenêtre": [],
                 "libobs.hide_scene_item.GIRL CLOSING": [],
                 "libobs.hide_scene_item.GP": [],
-                "libobs.hide_scene_item.Louea Love": [],
+                "libobs.hide_scene_item.GIT BACKUP Love": [],
                 "libobs.hide_scene_item.Navigateur": [],
                 "libobs.hide_scene_item.Périphérique de capture vidéo": [],
                 "libobs.hide_scene_item.Source média": [],
@@ -3725,7 +3725,7 @@
                 "libobs.show_scene_item.Capture de fenêtre": [],
                 "libobs.show_scene_item.GIRL CLOSING": [],
                 "libobs.show_scene_item.GP": [],
-                "libobs.show_scene_item.Louea Love": [],
+                "libobs.show_scene_item.GIT BACKUP Love": [],
                 "libobs.show_scene_item.Navigateur": [],
                 "libobs.show_scene_item.Périphérique de capture vidéo": [],
                 "libobs.show_scene_item.Source média": [],
@@ -3878,7 +3878,7 @@
                         "group_item_backup": false,
                         "id": 6,
                         "locked": true,
-                        "name": "Louea Love",
+                        "name": "GIT BACKUP Love",
                         "pos": {
                             "x": 1627.0,
                             "y": 831.0
@@ -4442,7 +4442,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "client_area": false,
-                "window": "Louea - Twitch - Opera:Chrome_WidgetWin_1:opera.exe"
+                "window": "GIT BACKUP - Twitch - Opera:Chrome_WidgetWin_1:opera.exe"
             },
             "sync": 0,
             "versioned_id": "window_capture",
